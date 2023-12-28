@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #F0E68C; /* Fondo de página */
+}
+
+header {
+    background-color: #ADD8E6; /* Encabezado */
+    padding: 20px;
+}
+
+main {
+    background-color: #F0E68C; /* Contenido principal */
+    padding: 20px;
+    display: flex;
+    justify-content: center; /* Centra horizontalmente */
+    align-items: 250px
+}
+.registro-container {
+    background-color: #F0E68C; /* Color de fondo para el contenedor del registro */
+    padding: 20px;
+    display: flex;
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center; /* Centra verticalmente */
+}
+

@@ -1,0 +1,16 @@
+/* Aquí puedes agregar reglas adicionales de estilos si lo necesitas */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #F0E68C; /* Fondo de página */
+}
+
+header {
+    background-color: #ADD8E6; /* Encabezado */
+    padding: 20px;
+}
+
+main {
+    background-color: #F0E68C; /* Contenido principal */
+    padding: 20px;
+}
