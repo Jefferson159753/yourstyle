@@ -106,6 +106,8 @@
         document.body.removeChild(enlaceDescarga);
     }
 </script> -->
+
+<!-- hola soy luigy -->
         <script>
             function capturarPantalla() {
                 // Capturar la imagen de la pantalla usando html2canvas
