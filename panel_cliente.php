@@ -107,7 +107,7 @@
     }
 </script> -->
 
-<!-- hola soy luigy -->
+<!-- hola soy ronal -->
         <script>
             function capturarPantalla() {
                 // Capturar la imagen de la pantalla usando html2canvas
